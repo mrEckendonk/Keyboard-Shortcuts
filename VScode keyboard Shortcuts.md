@@ -1,4 +1,4 @@
-# VScode Keyboard Shortcuts
+# Keyboard Shortcuts
 
 ### VS Code Keybard Shortcuts
 
@@ -7,7 +7,6 @@
 - Create New Terminal inside VS Code: Ctrl + Shift + '
 - Move a line up or down: Ctrl + Up/Down
 - Select Multiple Lines: Ctrl + Shift + Up/Down
-
 
 
 ### Markdown All In One Extension
@@ -20,3 +19,7 @@
 - Alt + C	Check/Uncheck task list item
 - Ctrl/Cmd + Shift + V	Toggle preview
 - Ctrl/Cmd + K V	Toggle preview to side
+
+### Nvidea
+
+- Atl + Z Conrol panel NVIDIA
