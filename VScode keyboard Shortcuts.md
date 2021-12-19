@@ -7,6 +7,7 @@
 - Create New Terminal inside VS Code: Ctrl + Shift + '
 - Move a line up or down: Ctrl + Up/Down
 - Select Multiple Lines: Ctrl + Shift + Up/Down
+- Copy a line: Alt + Shift + Up/Down
 
 
 ### Markdown All In One Extension
