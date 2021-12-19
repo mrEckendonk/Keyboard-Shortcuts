@@ -1,6 +1,6 @@
 # Keyboard Shortcuts
 
-### VS Code Keybard Shortcuts
+### VS Code Keybard Shortcut(s)
 
 - Commment out Current Line: Ctrl + /
 - Show Command Palette: Ctrl + Shift + P
