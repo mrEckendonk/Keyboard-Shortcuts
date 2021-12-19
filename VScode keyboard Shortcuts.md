@@ -24,3 +24,7 @@
 ### Nvidea
 
 - Atl + Z Conrol panel NVIDIA
+
+### Windows 11
+
+- Ctrl       Find Mouse (circle)
