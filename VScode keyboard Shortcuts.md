@@ -28,3 +28,7 @@
 ### Windows 11
 
 - Ctrl       Find Mouse (circle)
+
+### Chrome
+
+- Ctrl + Shift = I ==> Developer Tools
