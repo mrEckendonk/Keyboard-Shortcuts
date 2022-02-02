@@ -34,4 +34,4 @@
 
 - Ctrl + Shift + I => Developer Tools
 - Ctrl + Shift + B => Show Bookmarks
-- Ctrl + F => Search
+- Ctrl + F => Search 
